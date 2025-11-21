@@ -30,4 +30,5 @@ Clone the repo.
 Add your google-services.json in android/app/.
 Run flutter pub get.
 Run flutter run.
+
 Built with ❤️ by Aman Bishnoi 
